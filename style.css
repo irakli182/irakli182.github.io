@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,200;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Kalam:wght@300&display=swap');
+
+
+.row {
+    font-size: 4vw ;
+    color: white;
+}
+
+#text {
+    font-weight: 300;
+    animation: lights 5s 750ms linear infinite;
+  }
+
+.image {
+    padding: 0;
+    margin: 0;
+
+}
+
+.bvbv {
+    font-family: 'Alexandria', sans-serif;
+}
+
+.text1 {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 0;
+    font-size: 2vw;
+    margin-left: 7vw;
+    margin-top: 6.5vw;
+    font-family: 'Zen Dots', cursive;
+}
+.text2 {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 0;
+    font-size: 3.4vw;
+    margin-left: 7vw;
+    margin-top: 10vw;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: bold;
+}
+
+.text3 {
+    color: rgb(0, 0, 0);
+    font-size: 2vw;
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+}
+
+.text4 {
+    position: absolute;
+    top: 13vw;
+    left: 0;
+    right: 0;
+    color: rgb(0, 0, 0);
+    font-size: 1vw;
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+}
+
+.textarea {
+    position: absolute;
+    top: 0;
+    margin-top: 25vw;
+    margin-left: 7vw;
+    height: 17vw;
+    width: 25vw;
+    background-color: rgba(153, 153, 153, 0.1);
+    border-radius: 30px;
+    backdrop-filter:blur(10px);
+    color: white;
+}
+
+.text5 {
+    font-size: 1vw;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-top: 17vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+    width: 6vw;
+    border-radius: 5px;
+    height: 2vw;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    padding-top: 0.3vw;
+    
+}
+
+.text5:hover {
+    color: black;
+    background-color: rgb(184, 159, 0);
+}
+
+.headtext {
+    font-size: 4vw;
+    padding-top: 4vw;
+    padding-bottom: 5vw;
+    text-align: center;
+}
+
+#cols{
+    padding-top: 0vw;
+    color: black;
+    height: 10vw;
+    font-size: 3vw;
+    color: rgb(0, 24, 13);
+    padding-bottom: 15vw;
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+    margin-bottom: 5vw;
+}
+
+.services {
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.jzz {
+    font-size: 1.5vw;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+
+}
+
+.opj {
+    width: 9vw;
+}
+
+
+
+#backgroundtwo {
+    padding-top: 4vw;
+    
+}
+
+.mycomment {
+    margin-top: -40vw;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: 'Anton', sans-serif;
+}
+
+.plpl {
+    margin-top: -45vw;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    color: yellow;
+    text-align: center;
+    font-size: 9vw;
+}
+
+.abcd {
+    margin-top: -30vw;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 2vw;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Kalam', cursive;  
+}
+
+.nikaphoto {
+    margin-top: -20vw;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto;
+    position: absolute;
+    width: 6vw;
+}
+
+.jdjd {
+    margin-top: -13vw;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1vw;
+    
+}
+
+.qew {
+    text-decoration: none;
+}
+
+.stars {
+    margin-top: -10vw;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center;
+    font-size: 1vw;
+}
+
+.mnmn {
+    padding-top: 3vw;
+    height: 35vw;
+}
+
+.ytyt {
+    padding-top: 2vw;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.dial {
+    padding-top: 0.5vw;
+    font-size: 1vw;
+    text-align: center;
+}
+
+.number {
+    text-decoration: none;
+    color: red;
+    
+}
+
+.number:hover {
+    text-decoration: none;
+    color: red;
+    cursor: auto;
+}
+
+.number:active {
+    text-decoration: none;
+    color: red;
+    cursor: auto;
+}
+
+.parent {
+    text-align: center;
+}
+
+.button {
+    border-radius: 5px;
+    z-index: 4;
+    width: 10vw;
+    height: 4vw;
+    margin-top: 3vw;
+    margin-left: -5vw;
+    position: absolute;
+    background: yellow;
+    text-align: center;
+    font-size: 1.8vw;
+    padding-top: .5vw;
+    text-decoration: none;
+    color: black;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.button:hover {
+    text-decoration: none;
+    color: rgb(251, 1, 1);
+    cursor: pointer;
+    background: rgba(203, 179, 0, 0.955);
+}
+
+.finisher {
+    width: 100%;
+    height: 5vw;
+}
+
+.zuzu {
+    position: absolute;
+    margin-top: 2vw;
+    color: white;
+    margin-left: 75vw;
+    font-size: 1vw;
+}
